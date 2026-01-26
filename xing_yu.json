@@ -1,0 +1,16 @@
+{
+  "projectName": "星宇 APP",
+  "details": {
+    "subtitle": "星宇个人博客 APP 项目",
+    "version": "1.0.0",
+    "description": "一款个人博客应用，提供文章发布、管理和阅读功能",
+    "author": "",
+    "creationDate": "2024-01-26",
+    "lastUpdate": "2024-01-26"
+  },
+  "navigation": {
+    "articles": "./article_list.json",
+    "version_info": "./version.json",
+    "update_log": "./update_log.json"
+  }
+}

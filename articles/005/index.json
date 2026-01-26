@@ -1,0 +1,13 @@
+{
+  "id": "005",
+  "title": "Node.js性能优化技巧",
+  "author": "",
+  "date": "2024-01-05",
+  "category": "技术",
+  "tags": ["Node.js", "性能优化", "服务器", "后端开发"],
+  "status": "published",
+  "related_files": [
+    "article.md",
+    "images/nodejs-performance.png"
+  ]
+}

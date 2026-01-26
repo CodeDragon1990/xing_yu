@@ -1,0 +1,13 @@
+{
+  "id": "001",
+  "title": "Flutter开发初学者完整指南",
+  "author": "",
+  "date": "2024-01-15",
+  "category": "技术",
+  "tags": ["Flutter", "Dart", "移动开发", "跨平台"],
+  "status": "published",
+  "related_files": [
+    "article.md",
+    "images/flutter-logo.png"
+  ]
+}

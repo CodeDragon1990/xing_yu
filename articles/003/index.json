@@ -1,0 +1,13 @@
+{
+  "id": "003",
+  "title": "机器学习在图像识别中的应用",
+  "author": "",
+  "date": "2024-01-10",
+  "category": "人工智能",
+  "tags": ["机器学习", "图像识别", "CNN", "深度学习"],
+  "status": "published",
+  "related_files": [
+    "article.md",
+    "images/cnn-architecture.png"
+  ]
+}

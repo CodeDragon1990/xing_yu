@@ -1,0 +1,15 @@
+{
+  "currentVersion": "1.0.0",
+  "releaseDate": "2024-01-26",
+  "versionHistory": [
+    {
+      "version": "1.0.0",
+      "date": "2024-01-26",
+      "changes": [
+        "初始版本发布",
+        "实现基本博客功能",
+        "支持文章列表展示"
+      ]
+    }
+  ]
+}

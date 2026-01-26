@@ -1,0 +1,13 @@
+{
+  "id": "002",
+  "title": "响应式网页设计的核心原则",
+  "author": "",
+  "date": "2024-01-12",
+  "category": "设计",
+  "tags": ["响应式设计", "CSS", "前端开发", "用户体验"],
+  "status": "published",
+  "related_files": [
+    "article.md",
+    "images/responsive-design.jpg"
+  ]
+}

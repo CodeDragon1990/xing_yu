@@ -1,0 +1,13 @@
+{
+  "id": "004",
+  "title": "前端安全最佳实践",
+  "author": "",
+  "date": "2024-01-08",
+  "category": "安全",
+  "tags": ["前端安全", "XSS", "CSRF", "网络安全"],
+  "status": "published",
+  "related_files": [
+    "article.md",
+    "images/security-checklist.png"
+  ]
+}
