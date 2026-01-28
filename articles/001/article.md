@@ -1,4 +1,4 @@
-# Flutter开发初学者完整指南
+# Flutter开发初学者完整指南(不完全准确)
 
 ## 什么是Flutter？
 
